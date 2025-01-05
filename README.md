@@ -1,6 +1,8 @@
 # Math Buddy System - README
 
-Welcome to the **Math Buddy System**, a lighthearted and satirical project designed using the Autogen Studio 2.0 platform. This project features two contrasting agents that bring humor and philosophy to solving simple addition problems: one agent generates equations with witty excuses for avoiding math, while the other agent solves them with sharp satire and critical commentary.
+Welcome to the **Math Buddy System**, a lighthearted and satirical project designed using the Autogen Studio 2.0 platform. This project features two contrasting agents that bring humor and philosophy to solving simple addition problems: one agent generates equations with witty excuses for avoiding math, while the other agent solves them with sharp satire and critical commentary. 
+
+On the practical and flip side, I can see how this could be turned into a helpful flow with a "GFI sales agent" potentially calling a "GFI troubleshooting agent", with each agent maintaining their focus and skills. 
 
 Please watch this loom for a walkthrough of the project: https://www.loom.com/share/ce2c41d2f806441a8201c82840a8261f?sid=0258f7f1-8011-4c9a-845a-896ba39f6b7e
 
