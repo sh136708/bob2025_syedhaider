@@ -1,0 +1,1 @@
+{"user_id":"guestuser@gmail.com","version":"0.0.1","name":"generate_simple_math_equations","content":"def generate_equation():\n    import random\n    num1 = random.randint(1, 10)\n    num2 = random.randint(1, 10)\n    equation = f\"{num1}+{num2}\"\n    return equation","description":"generate_equations","libraries":["requests","fpdf","PIL"]}

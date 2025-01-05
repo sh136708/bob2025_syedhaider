@@ -1,0 +1,1 @@
+{"user_id":"guestuser@gmail.com","version":"0.0.1","name":"solve_simple_math_equations","content":"def solve_equation(equation):\n    try:\n        result = eval(equation)\n        return f\"The answer to {equation} is {result}\"\n    except:\n        return \"Invalid equation provided\"","description":"solve_equations","libraries":["requests","fpdf","PIL"]}
